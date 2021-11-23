@@ -1,0 +1,96 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  line-height: 12px;
+  font-weight: normal;
+  font-variant: normal;
+  background-color:rgba(255, 217, 174, 0.60);
+  background-image: url(images/hintergr_orig.jpg);
+}
+
+
+h3 {
+  color:rgb(88, 47, 0)!important;
+  margin-bottom: none;
+}
+h4 {
+  color:rgb(88, 47, 0)!important;
+
+}
+.col-md-6 {
+  background-color:rgba(255, 217, 174, 0.60) !important;
+  padding: 20px;
+}
+.col-md-12 {
+  background-color:rgba(255, 217, 174, 0.60) !important;
+  padding-top: 20px;
+}
+
+a {
+  color:rgb(88, 47, 0)!important; 
+}
+
+p {
+  color:rgb(88, 47, 0)!important; 
+  margin-bottom: none !important;
+}
+
+li{
+  margin-left: 20px;
+}
+
+#background {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    filter: blur(5px) brightness(0.75);
+    -webkit-filter: blur(5px) brightness(0.75);
+    -moz-filter: blur(5px) brightness(0.75);
+    -ms-filter: blur(5px) brightness(0.75);
+    -o-filter: blur(5px) brightness(0.75);
+    position: absolute;
+    background-color: rgba(255, 217, 174, 0.60);
+    background-image: url('images/bg.png');
+    z-index: 1;
+}
+
+.row {
+  height: auto;
+  
+}
+
+
+
+.cropped img {
+  margin: -100px -100px 0px 0px;
+}
+
+a:active   { 
+	text-decoration: none;
+	color:#000000;
+
+}
+
+a:hover   { 
+	text-decoration: none;
+	color:#000000;
+}
+
+a:link   { 
+	text-decoration: none;
+	color:#000000;
+}
+
+a:visited   { 
+	text-decoration: none;
+	color:#000000;
+}
+
+#center {
+  align-content: center;
+  text-align: center;
+}

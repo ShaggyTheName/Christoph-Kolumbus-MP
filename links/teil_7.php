@@ -1,43 +1,27 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
-<head>
-<title>Christoph Kolumbus</title>
+<?php include('../includes/header.php'); ?>
 
-<meta name="description" content=" Marginalia to Christoph Kolumbus, Korsar und Kreuzfahrer, Cristoforo Colombo, Corsaro e Crociato�. Details about Christopher Columbus, his son Hernando Col�n, Bartolom� de Las Casas, Luis Col�n, Diego Col�n and others. 
-Christophe Colomb, Crist�bal Col�n, Christopher Columbus, Christophe Colomb, Crist�bal Col�n, Christopher Columbus. Christophe Colomb, Crist�bal Col�n, Christopher Columbus Christopher Columbus, Christopher Columbus, Christopher Columbus, Christophe Colomb, Christophe Colomb, Christophe Colomb, Fernando Col�n, Fernando Colombo, Hernando Col�n, Hernando Col�n, Bartolomeo Col�n, Bartolomeo Col�n, Diego Col�n, Diego Col�n, Diego Col�n, Diego Col�n, Luis Col�n, Luis Col�n, Luis Col�n, Lu�s Col�n, Lu�s Col�n, Cristoforo Colombo, Cristoforo Colombo, Cristoforo Colombo, Christophe Colomb, Christophe Colomb, Christophe Colomb, Bartolom� de Las Casas, Bartolom� de Las Casas, Bartolom� de Las Casas, Bartolom� de Las Casas, Bartolomeo de Las Casas, Ferdinand von Aragon, Isabella von Kastilien, Ferdinand von Aragon, Isabella von Kastilien, Ren� von Anjou, Ren� von Anjou, Ren� von Anjou, Louis XI., Louis XI., Louis XI., Pal�olog, Palaiolog, Pal�olog, Palaiolog, Jim�nez de Cisneros, Jim�nez de Cisneros, Jim�nez de Cisneros ">
-<meta name="author" content="Webcenter-jona.ch">
-<meta name="keywords" content="Marginalia to Christoph Kolumbus, Korsar und Kreuzfahrer, Cristoforo Colombo, Corsaro e Crociato�. Details about Christopher Columbus, his son Hernando Col�n, Bartolom� de Las Casas, Luis Col�n, Diego Col�n and others. 
-Christophe Colomb, Crist�bal Col�n, Christopher Columbus, Christophe Colomb, Crist�bal Col�n, Christopher Columbus. Christophe Colomb, Crist�bal Col�n, Christopher Columbus Christopher Columbus, Christopher Columbus, Christopher Columbus, Christophe Colomb, Christophe Colomb, Christophe Colomb, Fernando Col�n, Fernando Colombo, Hernando Col�n, Hernando Col�n, Bartolomeo Col�n, Bartolomeo Col�n, Diego Col�n, Diego Col�n, Diego Col�n, Diego Col�n, Luis Col�n,??Y????E?E? Luis Col�n, Luis Col�n, Lu�s Col�n, Lu�s Col�n, Cristoforo Colombo, Cristoforo Colombo, Cristoforo Colombo, Christophe Colomb, Christophe Colomb, Christophe Colomb, Bartolom� de Las Casas, Bartolom� de Las Casas, Bartolom� de Las Casas, Bartolom� de Las Casas, Bartolomeo de Las Casas, Ferdinand von Aragon, Isabella von Kastilien, Ferdinand von Aragon, Isabella von Kastilien, Ren� von Anjou, Ren� von Anjou, Ren� von Anjou, Louis XI., Louis XI., Louis XI., Pal�olog, Palaiolog, Pal�olog, Palaiolog, Jim�nez de Cisneros, Jim�nez de Cisneros, Jim�nez de Cisneros  ">
-<meta name="robots" content="follow">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link href="css.css" rel="stylesheet" type="text/css">
-</head>
+<div class="container-fluid">
 
-<body>
-<p><a href="pdf/Teil7.pdf" type="application/pdf" target="_blank" ><img src="images/pdf_klein.gif"/></a></p>
-<p align="right"><a href="http://www.christopher-columbus.ch" target="_blank">home</a><br>
-</p>
-<table width="80%" border="0" align="center">
-  <tr> 
-    <td colspan="2"><div align="center"> 
-        <h2>Teil 7 </h2>
-        <p>&nbsp;</p>
-      </div></td>
-  </tr>
-  <tr> 
-    <td colspan="2"><h3> Kolumbus&#8217; Tod 1506 &#8226; Francis Drake auf Santo 
+<div class="row">
+    <div class="col-md-12">
+        
+        <div class="row">
+            <div class="col-md-2">
+            </div>
+            <div class="col-md-8">
+                
+                <br><h3>Kolumbus&#8217; Tod 1506 &#8226; Francis Drake auf Santo 
         Domingo &#8226; Hernando Col&oacute;n (1488&#8212;1539) &#8226; Don Lu&iacute;s 
         Col&oacute;n (1522&#8212;1572) &#8226; In den H&auml;nden der Gesellschaft 
         Jesu &#8226; Die Ver&ouml;ffentlichung der vera relatione 1571 &#8226; 
-        SCHLUSSWORT <br>
-      </h3></td>
-  </tr>
-  <tr> 
-    <td colspan="2"><h2>&nbsp;</h2>
-      <h2>Kolumbus&#8217; Tod 1506</h2></td>
-  </tr>
-  <tr> 
-    <td colspan="2">Christoph Kolumbus litt gegen Lebensende an einer starken 
+        SCHLUSSWORT</h3> <br>
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <h4>Kolumbus&#8217; Tod 1506</h4>
+                    </div>
+                    <div class="col-md-6">
+                        <p>Christoph Kolumbus litt gegen Lebensende an einer starken 
       Form der Gicht. Dies hinderte ihn nicht, im Mai 1505 eine beschwerliche 
       Reise von Sevilla an den k&ouml;niglichen Hof zu Segovia anzutreten. Dort 
       bat er um eine Audienz mit <a href="http://de.wikipedia.org/wiki/Ferdinand_II._(Arag%C3%B3n)" target="_blank">Ferdinand 
@@ -48,13 +32,8 @@ Christophe Colomb, Crist�bal Col�n, Christopher Columbus, Christophe Colomb,
       mündlich wie schriftlich versprochen hat&#8220; (Kolumbus, Brieffragment 
       an Diego de Deza ). Ferdinand von Aragon hatte dem Entdecker den Vorschlag 
       gemacht, seine Rechte in Übersee gegen ein grosses Stück Grundbesitz 
-      in Kastilien einzutauschen. Doch Kolumbus lehnte entschieden ab. </td>
-  </tr>
-  <tr> 
-    <td width="30%"><img src="images/Tod%20des%20Kolumbus.jpg" width="259" height="336"><br> 
-      <font size="-1">Kolumbus&#8217; Tod, Gem&auml;lde Rodriguez Losada,<br>
-      Kloster von La R&aacute;bida </font> </td>
-    <td width="70%" valign="top">Der Entdecker starb im Beisein seiner engsten 
+      in Kastilien einzutauschen. Doch Kolumbus lehnte entschieden ab.
+      Der Entdecker starb im Beisein seiner engsten 
       Vertrauten an Auffahrt 1506 (20. Mai) in Valladolid.<br>
       In den folgenden Jahren verhinderte Ferdinand die geplante Ehe des Erbfolgers 
       Diego Col&oacute;n mit der Tochter des Herzogs von Medina Sidonia &#8211; 
@@ -64,15 +43,26 @@ Christophe Colomb, Crist�bal Col�n, Christopher Columbus, Christophe Colomb,
       als Vizek&ouml;nig; nach seinem Tod 1526 reduzierte der Indienrat (Consejo 
       de Indias) in Sevilla die erblichen Rechte der Nachkommen Kolumbus&#8217; 
       auf die noch heute existierenden Titel des Herzogtums von Veragua (Panama) 
-      und der Markgrafschaft Jamaika.<br></td>
-  </tr>
-  <tr> 
-    <td colspan="2"><h2>&nbsp;</h2>
-      <h2>Francis Drake plündert Santo Domingo</h2></td>
-  </tr>
-  <tr> 
-    <td colspan="2"><br>
-      Kolumbus&#8217; Tod und Begr&auml;bnis sind beinahe so r&auml;tselhaft wie 
+      und der Markgrafschaft Jamaika.
+    </p>
+                          <br></p>
+                        
+                    </div>
+
+                    <div class="col-md-6">
+                    <img src="../images/Tod%20des%20Kolumbus.jpg" width="259" height="336">
+                    <p class="kleineFont">Kolumbus&#8217; Tod, Gem&auml;lde Rodriguez Losada,<br>
+      Kloster von La R&aacute;bida</p>
+                    </div>
+
+                </div><br>
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <h4>Francis Drake plündert Santo Domingo</h4>
+                    </div>
+                    <div class="col-md-6">
+                    <p>Kolumbus&#8217; Tod und Begr&auml;bnis sind beinahe so r&auml;tselhaft wie 
       seine Geburt und Herkunft. Zwar ist der Todestag bekannt (20. Mai 1506), 
       doch sein Grab ist bis heute verschwunden. Seine Schwiegertochter Mar&iacute;a 
       de Toledo y Rojas hatte seine Gebeine einst mit Einwilligung <a href="http://de.wikipedia.org/wiki/Karl_V._(HRR)" target="_blank">Karls 
@@ -89,23 +79,8 @@ Christophe Colomb, Crist�bal Col�n, Christopher Columbus, Christophe Colomb,
       Elisabeth damit, ihren Widersacher <a href="http://de.wikipedia.org/wiki/Philipp_II._(Spanien)" target="_blank">Philipp 
       II.</a> zu demütigen; (Friear Keeler 1981, S. 244f.). Angesichts dieser 
       Umst&auml;nde ist nicht auszuschliessen, dass die verschwundenen und bis 
-      heute gesuchten Gebeine des Kolumbus damals nach England gelangten. </td>
-  </tr>
-  <tr> 
-    <td><font size="-1"><img src="images/Elizabeth%20I%20von%20England.jpg" width="250" height="329"><br>
-      Elisabeth I. von England im Alter von 30 Jahren<br>
-      </font></td>
-    <td><div align="right"><font size="-1"><img src="images/Philipp%20II%20farbig.jpg" width="253" height="368"><br>
-        Philipp II. von Spanien, Detail aus &#8222;la Gloria&#8220; von Tizian 
-        </font></div></td>
-  </tr>
-  <tr> 
-    <td colspan="2"><img src="images/Francis_Drake_in_Santo_Domingo.jpg" width="355" height="220"><br> 
-      <font size="-1">Angriff von Francis Drake auf Santo Domingo, handcolorierter 
-      Kupferstich von B. Boazio 1589 </font></td>
-  </tr>
-  <tr> 
-    <td colspan="2">IIm 19. Jahrhundert war es zu einer intensiven Suche nach 
+      heute gesuchten Gebeine des Kolumbus damals nach England gelangten.<br>
+      Im 19. Jahrhundert war es zu einer intensiven Suche nach 
       den sterblichen Überresten gekommen &#8211; damals noch in der Absicht, 
       Kolumbus zu einem Heiligen zu machen und seine Gebeine zu Reliquien (z. 
       B. Cocchia 1877). Doch intensive Recherchen ergaben, dass die Gebeine verschwunden 
@@ -115,14 +90,30 @@ Christophe Colomb, Crist�bal Col�n, Christopher Columbus, Christophe Colomb,
       zu machen &#8211; doch anbetrachts der Tatsache, dass Francis Drake Santo 
       Domingo bereits im 16. Jahrhundert besetzt hatte und sp&auml;tere Recherchen 
       erfolglos blieben, w&auml;re eine Spurensuche in den Best&auml;nden von 
-      Windsor Castle angebrachter.</td>
-  </tr>
-  <tr> 
-    <td colspan="2"><h2>&nbsp;</h2>
-      <h2>Hernando Col&oacute;n (1488&#8212;1539)</h2></td>
-  </tr>
-  <tr> 
-    <td colspan="2">Hernando entstammte der Verbindung des Kolumbus mit der C&oacute;rdobesin 
+      Windsor Castle angebrachter.
+    </p>
+
+                    </div>
+                    <div class="col-md-6">
+                    <img src="../images/Elizabeth%20I%20von%20England.jpg" width="250" height="329">
+                    <p class="kleineFont">Elisabeth I. von England im Alter von 30 Jahren</p>
+                    <img src="../images/Philipp%20II%20farbig.jpg" width="253" height="368">
+                    <p class="kleineFont">Philipp II. von Spanien, Detail aus &#8222;la Gloria&#8220; von Tizian</p>
+                    <img src="../images/Francis_Drake_in_Santo_Domingo.jpg" width="355" height="220">
+                    <p class="kleineFont">Angriff von Francis Drake auf Santo Domingo, handcolorierter 
+      Kupferstich von B. Boazio 1589</p>
+                    </div>
+
+                </div>
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <h4>Hernando Col&oacute;n (1488&#8212;1539)</h4>
+                    </div>
+                    <div class="col-md-6">
+                        <p>
+                          
+                        Hernando entstammte der Verbindung des Kolumbus mit der C&oacute;rdobesin 
       Beatrice de Henr&iacute;quez de Harana. Als Page des Erbprinzen Juan genoss 
       er am kastilischen Hof eine humanistische Erziehung und Ausbildung. Doch 
       der Prinz und Hoffnungstr&auml;ger des neuen Imperiums starb 1497 unerwartet. 
@@ -146,15 +137,8 @@ Christophe Colomb, Crist�bal Col�n, Christopher Columbus, Christophe Colomb,
       uneheliche Geburt, angebliche Minderwertigkeitskomplexe und Verf&auml;lschungen 
       werden bem&auml;ngelt. Neuere Untersuchungen zeigen den jüngeren Kolumbussohn 
       allerdings als einen humanistisch gebildeten, international bekannten Gelehrten 
-      und Büchersammler, der in seiner Zeit h&ouml;chstes Ansehen genoss. 
-    </td>
-  </tr>
-  <tr> 
-    <td><img src="images/Prinz%20Juan.jpg" width="168" height="400"><br> <font size="-1">Grabplatte 
-      des Prinzen Juan <br>
-      von Kastilien, D. Fancelli, in <br>
-      der Kirche Santo Tomas, Avila </font></td>
-    <td valign="top">Nach dem Tod Kolumbus&#8217; 1506 war Hernando Col&oacute;n 
+      und Büchersammler, der in seiner Zeit h&ouml;chstes Ansehen genoss.<br>
+      Nach dem Tod Kolumbus&#8217; 1506 war Hernando Col&oacute;n 
       nach England und in die Niederlande gereist. Von hier aus durchquerte er 
       zweimal Mitteleuropa bis nach Italien (1520&#8211;22 und 1531). In den Zentren 
       des Buchdrucks n&ouml;rdlich und südlich der Alpen erwarb er w&auml;hrend 
@@ -165,10 +149,8 @@ Christophe Colomb, Crist�bal Col�n, Christopher Columbus, Christophe Colomb,
       zu machen. Hernando setzte sich auch für seinen Neffen Don Lu&iacute;s 
       Col&oacute;n ein, den &auml;ltesten Sohn seines Halbbruders Diego Col&oacute;n. 
       Er forderte für diesen Haupterben vor Gericht die Einhaltung des Kronvertrages 
-      von Santa F&eacute; (1492) ein und initiierte Prozesse gegen die Krone.</td>
-  </tr>
-  <tr> 
-    <td colspan="2"> Hernando forderte vor Gericht die Einhaltung des Kronvertrages 
+      von Santa F&eacute; (1492) ein und initiierte Prozesse gegen die Krone. <br>
+      Hernando forderte vor Gericht die Einhaltung des Kronvertrages 
       von Santa F&eacute; 1492 ein und initiierte zahlreiche Prozesse (pleytos) 
       gegen die Krone. 1539 starb Hernando einen denkwürdigen Tod, denn er 
       kannte den Zeitpunkt seines Todes bereits 50 Tage zum Voraus (Bericht an 
@@ -179,27 +161,38 @@ Christophe Colomb, Crist�bal Col�n, Christopher Columbus, Christophe Colomb,
       Giustiniani widerlegen &#8211; letzterer hatte sich, was Hernando nicht 
       wissen konnte, auf den unver&ouml;ffentlichten, kurzen Kommentar (commentariolum) 
       des Antonio Gallos gestützt <a href="teil_2.html">(siehe: Adlige versus 
-      plebejische Abstammung)</a> </td>
-  </tr>
-  <tr valign="top"> 
-    <td><font size="-1"><img src="images/Casas%20de%20Colon%20klein.jpg" width="327" height="400"><br>
-      Casas de Col&oacute;n, Ausschnitt Stadtansicht Sevilla, A. Brambilla, 1585</font></td>
-    <td><div align="right"><font size="-1"><img src="images/Hernando%20Colon%202.jpg" width="259" height="338"><br>
-        Hernando Col&oacute;n, anonym, Colombina, Sevilla, <br>
-        </font></div></td>
-  </tr>
-  <tr> 
-    <td colspan="2"><p>1539 starb Hernando einen denkwürdigen Tod: Gem&auml;ss 
+      plebejische Abstammung)</a> <br>
+      1539 starb Hernando einen denkwürdigen Tod: Gem&auml;ss 
         einem Bericht an den damals 17-j&auml;hrigen Lu&iacute;s Col&oacute;n 
-        in Santo Domingo kannte er seinen Todestag bereits 50 Tage im Voraus. 
-      </p>
-      <p>&nbsp;</p></td>
-  </tr>
-  <tr>
-    <td colspan="2"><h2>Don Lu&iacute;s Col&oacute;n (1522&#8212;1572)</h2></td>
-  </tr>
-  <tr> 
-    <td colspan="2">Don Lu&iacute;s Col&oacute;n erbte von seinem Onkel Hernando 
+        in Santo Domingo kannte er seinen Todestag bereits 50 Tage im Voraus.</p>
+                        <br>
+                    </div>
+
+                    <div class="col-md-6">
+
+                    <img src="../images/Prinz%20Juan.jpg" width="168" height="400">
+                    <p class="kleineFont"> Grabplatte 
+      des Prinzen Juan <br>
+      von Kastilien, D. Fancelli, in <br>
+      der Kirche Santo Tomas, Avila</p>
+
+      <img src="../images/Casas%20de%20Colon%20klein.jpg" width="327" height="400">
+      <p class="kleineFont">Casas de Col&oacute;n, Ausschnitt Stadtansicht Sevilla, A. Brambilla, 1585</p>
+                        <p></p>
+                        <img src="../images/Hernando%20Colon%202.jpg" width="259" height="338">
+                        <p class="kleineFont"> Hernando Col&oacute;n, anonym, Colombina, Sevilla,</p>
+
+                    </div>
+
+                </div>
+
+                <div class="row">
+                    <div class="col-md-12">
+                    <h4>Don Lu&iacute;s Col&oacute;n (1522&#8212;1572)</h4>
+                    </div>
+                    <div class="col-md-6">
+                    
+                            <p>Don Lu&iacute;s Col&oacute;n erbte von seinem Onkel Hernando 
       Col&oacute;n die grosse Büchersammlung und die &#8222;Casas de Col&oacute;n&#8220; 
       ausserhalb der Puerta de Goles zu Sevilla (siehe Abb. oben Casas de Col&oacute;n). 
       Als Haupterbe des Kolumbus und zukünftiger Vizek&ouml;nig war Lu&iacute;s 
@@ -214,14 +207,8 @@ Christophe Colomb, Crist�bal Col�n, Christopher Columbus, Christophe Colomb,
       Sein Verdienst war es immerhin, die Ver&ouml;ffentlichung der Chronik seines 
       Onkels über das Leben des Kolumbus in die Wege zu leiten. Dieses Verdienst 
       kann ihm, der als Antiheld in die Kolumbus-Historiographie einging, angesichts 
-      der nun folgenden Ereignisse nicht hoch genug angerechnet werden.<br></td>
-  </tr>
-  <tr> 
-    <td colspan="2"><font size="-1"><img src="images/alcazar-de-colon22.jpg" width="400" height="169"><br>
-      Alcazar de Col&oacute;n, Santo Domingo </font></td>
-  </tr>
-  <tr> 
-    <td colspan="2">Lu&iacute;s Col&oacute;n wurde 1558 im spanischen Valladolid 
+      der nun folgenden Ereignisse nicht hoch genug angerechnet werden.<br>
+      Lu&iacute;s Col&oacute;n wurde 1558 im spanischen Valladolid 
       wegen Verdachts auf Polygamie verhaftet. Er hatte zuvor in Rom die Annullierung 
       seiner Ehe mit Maria de Mosquera beantragt. Doch im Vatikan überstürzten 
       sich die Ereignisse: Zwei (Reform-)P&auml;pste starben nach jeweils kurzer 
@@ -233,14 +220,26 @@ Christophe Colomb, Crist�bal Col�n, Christopher Columbus, Christophe Colomb,
       zuletzt unter den Verm&ouml;genden und potentiell M&auml;chtigen. Seit der 
       p&auml;pstlichen Bulle licet ab initio (1542) waren Festnahmen auf Verdacht 
       hin m&ouml;glich. Privatpersonen konnten aufgrund von Gerüchten oder 
-      Denunziationen verhaftet und ohne Beweislast inhaftiert werden.</td>
-  </tr>
-  <tr> 
-    <td colspan="2"><h2>&nbsp;</h2>
-      <h2>In den H&auml;nden der Gesellschaft Jesu</h2></td>
-  </tr>
-  <tr> 
-    <td colspan="2">Lu&iacute;s Col&oacute;n wurde wenige Monate nach seiner Verhaftung 
+      Denunziationen verhaftet und ohne Beweislast inhaftiert werden.
+                          </p>
+                         
+                    </div>
+
+                    <div class="col-md-6">
+                        
+                    <img src="../images/alcazar-de-colon22.jpg" width="400" height="169">
+                        <p class="kleineFont">Alcazar de Col&oacute;n, Santo Domingo</p>
+
+                    </div>
+
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                    <h4>In den H&auml;nden der Gesellschaft Jesu</h4>
+                    </div>
+                    <div class="col-md-6">
+                    
+                        <p>Lu&iacute;s Col&oacute;n wurde wenige Monate nach seiner Verhaftung 
       in Valladolid 1558 in die k&ouml;nigliche Gef&auml;ngnis-Festung von Simancas 
       überbracht. Kerkermeister war Juan Mosquera de Molinas, ein Verwandter 
       seiner Noch-Ehefrau und Abt des ersten Jesuiten-Ordens. Wie aus einem internen 
@@ -249,15 +248,8 @@ Christophe Colomb, Crist�bal Col�n, Christopher Columbus, Christophe Colomb,
       dass der inhaftierte Admiral einer der &#8222;zügellosesten Menschen 
       der Welt&#8220; sei, dem man &#8222;grosse Ungeheuerlichkeiten&#8220; vorwerfe. 
       Er habe sich der Gesellschaft Jesu gegenüber zuerst sehr abweisend 
-      benommen und sogar die Beichte verweigert. </td>
-  </tr>
-  <tr> 
-    <td><font size="-1"><img src="images/st-francis-borgia-1.jpg" width="224" height="299"><br>
-      <a href="http://de.wikipedia.org/wiki/Francisco_de_Borja" target="_blank">Francisco 
-      de Borja</a>, Urenkel von Papst Alexander VI. und Ferdinand von Aragon, 
-      besuchte Lu&iacute;s Col&oacute;n in seiner Zelle und wurde sp&auml;ter 
-      heilig gesprochen </font></td>
-    <td valign="top"><p>Schliesslich habe der jesuitische Generalkommissar <a href="http://de.wikipedia.org/wiki/Francisco_de_Borja" target="_blank">Francisco 
+      benommen und sogar die Beichte verweigert.<br>
+      Schliesslich habe der jesuitische Generalkommissar <a href="http://de.wikipedia.org/wiki/Francisco_de_Borja" target="_blank">Francisco 
         de Borja</a> ihn in der Zelle aufgesucht und durch intensive Gespr&auml;che 
         bekehrt. Lu&iacute;s habe nun die notwendige &#8218;Fr&ouml;mmigkeit&#8217; 
         gezeigt und dem Generalkommissar versprochen, in Übersee ein Jesuiten-Kollegium 
@@ -265,13 +257,8 @@ Christophe Colomb, Crist�bal Col�n, Christopher Columbus, Christophe Colomb,
         Onkels Hernando zu vermachen. Noch am selben Tag übermittelte der 
         Sekret&auml;r der Jesuitengemeinschaft nach Rom, der Orden befinde sich 
         nun im Besitze einer der berühmtesten Bibliotheken der Welt mit rund 
-        14'000 Büchern! <br>
-        . <br>
-      </p>
-      </td>
-  </tr>
-  <tr> 
-    <td><div align="left">In der Folge schmolz die Sammlung von Renaissance-Büchern 
+        14'000 Büchern!<br>
+        In der Folge schmolz die Sammlung von Renaissance-Büchern 
         auf einen Bruchteil ihres ursprünglichen Umfangs: Von den auf 15'300 
         gesch&auml;tzten Büchern Hernando Col&oacute;ns sind heute in Sevilla 
         gerade noch 5000 vorhanden. Die &#8222;Schenkung&#8220; des Lu&iacute;s 
@@ -282,16 +269,28 @@ Christophe Colomb, Crist�bal Col�n, Christopher Columbus, Christophe Colomb,
         Renaissance-Bibliothek in der Folge nach Rom weiterleiteten: Die Jesuiten 
         waren an einer Vormachtsstellung in der Lateinamerika-Mission interessiert 
         und Hernando Col&oacute;n hatte die meisten seiner Werke w&auml;hrend 
-        der Reformationszeit gekauft</div></td>
-    <td><div align="right"><font size="-1"><img src="images/Index_Librorum_Prohibitorum_1.jpg" width="221" height="331"><br>
-        Index Librorum Prohibitorum von Papst Paul IV. </font></div></td>
-  </tr>
-  <tr> 
-    <td colspan="2"><h2>&nbsp;</h2>
-      <h2>Die Ver&ouml;ffentlichung des &#8222;wahren Berichts&#8220; 1571</h2></td>
-  </tr>
-  <tr> 
-    <td colspan="2">Nachdem Lu&iacute;s der Gesellschaft Jesu&#8217; das Erbe 
+        der Reformationszeit gekauft</p>
+                       <br>
+                         
+                    </div>
+
+                    <div class="col-md-6">
+                    <img src="../images/st-francis-borgia-1.jpg" width="224" height="299">
+                        <p class="kleineFont"> <a href="http://de.wikipedia.org/wiki/Francisco_de_Borja" target="_blank">Francisco 
+      de Borja</a>, Urenkel von Papst Alexander VI. und Ferdinand von Aragon, 
+      besuchte Lu&iacute;s Col&oacute;n in seiner Zelle und wurde sp&auml;ter 
+      heilig gesprochen</p>
+      <img src="../images/Index_Librorum_Prohibitorum_1.jpg" width="221" height="331">
+      <p class="kleineFont"> Index Librorum Prohibitorum von Papst Paul IV.</p>
+                    </div>
+</div>
+                    <div class="row">
+                    <div class="col-md-12">
+                    <h4>Die Ver&ouml;ffentlichung des &#8222;wahren Berichts&#8220; 1571</h4>
+                    </div>
+                    <div class="col-md-6">
+                    
+                        <p>Nachdem Lu&iacute;s der Gesellschaft Jesu&#8217; das Erbe 
       seines Onkels Hernando vermacht hatte, erfüllte sich seine Hoffnung 
       auf Freilassung nicht. Er wurde in eine Zelle nach Sevilla verlegt. Lu&iacute;s 
       bemühte sich nun, das letzte ihm verbliebene Pfand seines grossen Erbes, 
@@ -335,15 +334,8 @@ Christophe Colomb, Crist�bal Col�n, Christopher Columbus, Christophe Colomb,
       IV (1559&#8212;65) eine steile Karriere machte. Falls es dem Herzog von 
       Alba nicht gelungen war, das Manuskript rechtzeitig zu beschlagnahmen und 
       es in die H&auml;nde des Kardinals gelangte, so k&ouml;nnte es sich heute 
-      folglich in Rom befinden.<br></td>
-  </tr>
-  <tr> 
-    <td colspan="2"><font size="-1"><img src="images/Historie%201.jpg" width="250" height="356"><img src="images/Historie%202.jpg" width="223" height="361"><br>
-      Frontspitz und Einleitung von Hernando Col&oacute;ns Chronik, Venedig 1571 
-      (Faksimile 1992) </font></td>
-  </tr>
-  <tr> 
-    <td colspan="2">Die Chronik Hernandos wurde 1571 schliesslich als &#8222;Historie&#8220; 
+      folglich in Rom befinden.<br>
+      Die Chronik Hernandos wurde 1571 schliesslich als &#8222;Historie&#8220; 
       bei Franceschi Sanese (Venedig) gedruckt. Die Einleitung schrieb ein gewisser 
       Guiseppe Moleto (1531&#8212;1588), ein süditalienischer Astronom und 
       Hauslehrer des Fürsten Guglielmo Gonzagas III. von Mantua (1538&#8212;1587). 
@@ -356,14 +348,26 @@ Christophe Colomb, Crist�bal Col�n, Christopher Columbus, Christophe Colomb,
       Aus dem Montferrat stammte übrigens auch ein gewisser Baldassare Colombo, 
       der 1572 nach Spanien reiste, um einen Prozess um die Erbfolge des Kolumbus 
       zu initiieren (er gab an, mit dem Entdecker verwandt zu sein). <a href="http://de.wikipedia.org/wiki/Guglielmo_Gonzaga" target="_blank">Guglielmo 
-      Gonzaga III.</a> von Mantua unterstützte ihn in dieser Mission nachweislich.</td>
-  </tr>
-  <tr> 
-    <td colspan="2"><h2>&nbsp;</h2>
-      <h2>SCHLUSSWORT</h2></td>
-  </tr>
-  <tr> 
-    <td colspan="2">Christoph Kolumbus&#8217; Werdgang ist r&auml;tselhaft: Wie 
+      Gonzaga III.</a> von Mantua unterstützte ihn in dieser Mission nachweislich.
+    </p>
+                       <br>
+                         
+                    </div>
+
+                    <div class="col-md-6">
+                    <img src="../images/Historie%201.jpg" width="250" height="356"><img src="../images/Historie%202.jpg" width="223" height="361">
+                    <p class="kleineFont"> Frontspitz und Einleitung von Hernando Col&oacute;ns Chronik, Venedig 1571 
+      (Faksimile 1992)</p>
+                    </div>           
+                </div>
+
+                    <div class="row">
+                    <div class="col-md-12">
+                    <h4>SCHLUSSWORT</h4>
+                    </div>
+                    <div class="col-md-6">
+                    
+                        <p>Christoph Kolumbus&#8217; Werdgang ist r&auml;tselhaft: Wie 
       war es m&ouml;glich, dass ein unbekannter Seefahrer ausl&auml;ndischer Herkunft 
       sich von den spanischen K&ouml;nigen den Vizek&ouml;nigs-, den Admirals- 
       und Gouverneurstitel ausbedingen konnte? Kolumbus schrieb sich prophetische 
@@ -413,7 +417,14 @@ Christophe Colomb, Crist�bal Col�n, Christopher Columbus, Christophe Colomb,
       gestellt, lieferte im 16. und 17. Jahrhundert England und den Niederlanden 
       die (moralische) Rechtfertigung für eine Einmischung in Übersee. 
       <br>
-      Unter diesem Gesichtspunkt l&auml;sst sich der Bogen von der ausgestorbenen 
+      
+    </p>
+                       <br>
+                         
+                    </div>
+
+                    <div class="col-md-6">
+                        <p>Unter diesem Gesichtspunkt l&auml;sst sich der Bogen von der ausgestorbenen 
       Anjou-Dynastie zu den aufstrebenden Seenationen der Neuzeit spannen: Das 
       Machtvakuum, das die Erben Kolumbus&#8217; wegen der langen Gefangenschaft 
       des Lu&iacute;s Col&oacute;ns hinterliessen, wurde von den Feinden Habsburgs 
@@ -441,24 +452,20 @@ Christophe Colomb, Crist�bal Col�n, Christopher Columbus, Christophe Colomb,
       zu beseitigen, um sie zu wahren Christen zu machen, ging alsbald vergessen 
       und verkam zu einem willkommenen Propagandainstrument gegen das habsburgische 
       Weltreich. Die radikalen Aussagen von heute haben somit wenig zu tun mit 
-      den radikalen Aussagen von früher. <br>
-      <br></td>
-  </tr>
-  <tr valign="top"> 
-    <td valign="top"><a href="teil_6.html" target="mainFrame">zurück</a></td>
-    <td valign="top"><div align="right"><a href="home.html" target="mainFrame">home</a></div></td>
-  </tr>
-  <tr> 
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr> 
-    <td colspan="2">&nbsp;</td>
-  </tr>
-  <tr> 
-    <td colspan="2">&nbsp;</td>
-  </tr>
-</table>
-<p>&nbsp; </p>
+      den radikalen Aussagen von früher.</p>
+                    </div>           
+                    </div>
+                </div>
+               
+            </div>
+            <div class="col-md-2">
+            </div>
+        </div>
+    </div>
+</div>
+
+
+</div>
+
 </body>
 </html>

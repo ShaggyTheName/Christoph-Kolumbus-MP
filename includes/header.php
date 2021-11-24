@@ -4,8 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <script src="java.js"></script>
+    <title>Christoph Columbus</title>
     <link rel="stylesheet" href="../css.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
@@ -16,14 +15,14 @@
     <header>
         <div class="container-fluid">
             <nav class="navbar navbar-expand-lg navbar-light bg-light" style="background-color:rgba(255, 217, 174, 0.60) !important;">
-                <a class="navbar-brand" href="/index.php">Christoph Columbus</a>
+                <a class="a-style">Christoph Columbus</a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
                         <div class="collapse navbar-collapse" id="navbarNavDropdown">
                         <ul class="navbar-nav">
                             <li class="nav-item active">
-                            <a class="nav-link" href="/index.html">Marginalien <span class="sr-only">(current)</span></a>
+                            <a class="nav-link" href="/index.php">Marginalien <span class="sr-only">(current)</span></a>
                             </li>
                             <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -33,18 +32,18 @@
                             <a class="dropdown-item" href="/links/teil_2.php">Teil II</a>
                             <a class="dropdown-item" href="/links/teil_3.php">Teil III</a>
                             <a class="dropdown-item" href="/links/teil_4.php">Teil IV</a>
-                            <a class="dropdown-item" href="links/teil_5.html">Teil V</a>
-                            <a class="dropdown-item" href="links/teil_6.html">Teil VI</a>
-                            <a class="dropdown-item" href="links/teil_7.html">Teil VII</a>
+                            <a class="dropdown-item" href="/links/teil_5.php">Teil V</a>
+                            <a class="dropdown-item" href="/links/teil_6.php">Teil VI</a>
+                            <a class="dropdown-item" href="/links/teil_7.php">Teil VII</a>
                             </div>
                         <li class="nav-item">
-                            <a class="nav-link" href="links/buch.html">Buch</a>
+                            <a class="nav-link" href="/links/buch.php">Buch</a>
                         </li>
                         <li class="nav-item">
-                        <a class="nav-link" href="links/Rezensionen.html">Rezensionen</a>
+                        <a class="nav-link" href="/links/rezensionen.php">Rezensionen</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="links/kontakt.php">Kontakt</a>
+                            <a class="nav-link" href="/links/kontakt.php">Kontakt</a>
                         </li>
                         </a>
                     </li>

@@ -9,17 +9,25 @@ body {
   background-image: url(images/hintergr_orig.jpg);
 }
 
-
 h3 {
   color:rgb(88, 47, 0)!important;
   margin-bottom: none;
+  font-weight: 700;
+  margin: 7px;
 }
+
 h4 {
   color:rgb(88, 47, 0)!important;
-
+  font-weight: 700;
+  margin: 7px;
 }
+
 .col-md-6 {
   background-color:rgba(255, 217, 174, 0.60) !important;
+  padding: 20px;
+}
+
+.col-md-8 {
   padding: 20px;
 }
 .col-md-12 {
@@ -28,16 +36,18 @@ h4 {
 }
 
 a {
-  color:rgb(88, 47, 0)!important; 
+	color:rgb(88, 47, 0)!important;
+  font-weight: 700;
 }
 
 p {
   color:rgb(88, 47, 0)!important; 
   margin-bottom: none !important;
+  margin: 10px;
 }
 
 li{
-  margin-left: 20px;
+  margin-left: 30px;
 }
 
 #background {
@@ -59,38 +69,61 @@ li{
 }
 
 .row {
-  height: auto;
-  
+  height: auto;  
 }
-
-
 
 .cropped img {
   margin: -100px -100px 0px 0px;
 }
 
 a:active   { 
-	text-decoration: none;
-	color:#000000;
-
+	color:rgb(88, 47, 0)!important;
+  font-weight: 700;
 }
 
 a:hover   { 
-	text-decoration: none;
-	color:#000000;
+  color:rgb(88, 47, 0)!important;
+  font-weight: 700;
 }
 
 a:link   { 
-	text-decoration: none;
-	color:#000000;
+	color:rgb(88, 47, 0)!important;
+  font-weight: 700;
 }
 
 a:visited   { 
-	text-decoration: none;
-	color:#000000;
+  color:rgb(88, 47, 0)!important;
+  font-weight: 700;
 }
 
 #center {
   align-content: center;
   text-align: center;
+}
+
+#right {
+  align-content: right;
+  text-align: right;
+}
+
+.navbar-nav > li > .dropdown-menu { background-color:rgba(255, 217, 174, 0.80); }
+
+.container-fluid {
+  padding: 0 0 0 0 !important;
+}
+
+.navbar-toggler {
+  color:rgb(88, 47, 0)!important;
+  border-color:rgb(88, 47, 0)!important;
+}
+
+.kleineFont {
+  font-size:small;
+  margin: 0 0 0 0;
+  margin-bottom: 5px;
+}
+
+.a-style {
+	color:rgb(88, 47, 0)!important;
+  font-weight: 16px;
 }

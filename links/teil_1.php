@@ -19,7 +19,7 @@
                                 <h4>Einleitung</h4>
                             </div>
                             <div class="col-md-6">
-                                <p>Ein anonymes Dokument in einer spanischen 
+                            <p>Ein anonymes Dokument in einer spanischen 
                                 Bibliothek hatte mich 1985 erstmals auf die Spur eines anderen, heute 
                                 weitgehend unbekannten Christoph Kolumbus gebracht. Es handelte sich um 
                                 ein &auml;lteres Vortragsmanuskript, in welchem die Chronisten des 15. 
@@ -87,7 +87,8 @@
                             <div class="col-md-6">
                                 
                                 <img src="../images/Prosteste_1992.jpg" width="330" height="236">
-                                <p>Protest-Graffiti 1992, Baskenland: &#8222;Kann ein Genozid gefeiert werden? Nein zur 500-Jahr-Feier&#8220; </p>
+                                <p class="kleineFont">Protest-Graffiti 1992, Baskenland:<br>
+                                &#8222;Kann ein Genozid gefeiert werden? Nein zur 500-Jahr-Feier&#8220; </p>
                             </div>
 
                         </div>
@@ -158,13 +159,13 @@
                             <div class="col-md-6">
                                 
                                 <img src="../images/las%20casas.jpg" width="272" height="342"><br>
-                                <p>Portrait von <a href="http://de.wikipedia.org/wiki/Bartolom%C3%A9_de_Las_Casas" target="_blank">Bartolom&eacute; 
+                                <p class="kleineFont">Portrait von <a href="http://de.wikipedia.org/wiki/Bartolom%C3%A9_de_Las_Casas" target="_blank">Bartolom&eacute; 
                                     de Las Casas</a>,<br>
                                     B.N. Paris</p>
                                 <img src="../images/Brevissima%20relacion%20las%20Casas.jpg" width="192" height="331"><br>
-                                    <p>Frontspiz &#8222;Br&eacute;vissima relaci&oacute;n&#8230;&#8220; (1552) </p>
+                                    <p class="kleineFont">Frontspiz &#8222;Br&eacute;vissima relaci&oacute;n&#8230;&#8220; (1552) </p>
                                     <img src="../images/ferdiand%20von%20Aragon.jpg" width="211" height="310"><br>
-                                    <p>Ferdinand II. von Aragon, Kunsthist. Museum, Wien </p>
+                                    <p class="kleineFont">Ferdinand II. von Aragon, Kunsthist. Museum, Wien </p>
                             </div>
 
                         </div>
@@ -234,11 +235,11 @@
                             <div class="col-md-6">
                                 
                             <img src="../images/Papst%20Alexander%20VI.%20s%20w.jpg" width="208" height="279"><br>
-                                    <p>Alexander VI.(Borgia), Fresko von Pinturicchio, Rom, Vatikan</p>
+                                    <p class="kleineFont">Alexander VI.(Borgia), Fresko von Pinturicchio, Rom, Vatikan</p>
                                     <img src="../images/unnamed.jpg" width="253" height="287"><br>
-                                    <p> Hadrian VI., Cr. Dell&#8217; Altissimo, Uffizien, Florenz</p>
+                                    <p class="kleineFont"> Hadrian VI., Cr. Dell&#8217; Altissimo, Uffizien, Florenz</p>
                                     <img src="../images/karl%20V.%20jung.jpg" width="204" height="292"><br>
-                                    <p>Kaiser 
+                                    <p class="kleineFont">Kaiser 
                                     Karl V.</p>
                             </div>
 

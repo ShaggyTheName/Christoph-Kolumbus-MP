@@ -56,10 +56,10 @@
 
                     <div class="col-md-6">
                     <img src="../images/Catarina%20Cornaro.jpg" width="250" height="308">
-                    <p>Catarina Cornaro, Gentile Bellini, Budapest, Museum <br>
+                    <p class="kleineFont">Catarina Cornaro, Gentile Bellini, Budapest, Museum <br>
       der Sch&ouml;nen Künste<br></p>
       <img src="../images/Mehmed%20II.%20Sarai%20Album%20Istanbul%20Miniature,15.jpg" width="228" height="324">
-      <p><a href="http://de.wikipedia.org/wiki/Mehmet_II.%20" target="_blank">Mehmet 
+      <p class="kleineFont"><a href="http://de.wikipedia.org/wiki/Mehmet_II.%20" target="_blank">Mehmet 
       II </a>Sarai Album Istambul. 15. Jh.</p>
                     </div>
 
@@ -98,7 +98,7 @@
                     <div class="col-md-6">
                         
                     <img src="../images/Zypern, Sebastian Münster, Cosmographei, Basel 1550.jpg" width="371" height="264">
-                        <p>Zypern, S. Münster Cosmographei, Basel 1550</p>
+                        <p class="kleineFont">Zypern, S. Münster Cosmographei, Basel 1550</p>
 
                     </div>
 
@@ -120,7 +120,7 @@ Dieser habe sich mit ihnen anfreunden wollen, weil sie unterdessen ja Freundesfr
                     <div class="col-md-6">
                         
                     <img src="../images/Lissabon.jpg" width="400" height="231">
-                        <p>Lissabon 1596, Sevilla, Archivo General de Indias</p>
+                        <p class="kleineFont">Lissabon 1596, Sevilla, Archivo General de Indias</p>
 
                     </div>
 
@@ -167,7 +167,7 @@ Dieser habe sich mit ihnen anfreunden wollen, weil sie unterdessen ja Freundesfr
                     <div class="col-md-6">
                         
                     <img src="../images/Seeschlacht%201488.jpg" width="311" height="264">
-                        <p> franz&ouml;sische Schiffe beim Aufladen von Soldaten, <br>
+                        <p class="kleineFont"> franz&ouml;sische Schiffe beim Aufladen von Soldaten, <br>
       Miniatur um 1488, B. N., Paris</p>
                     </div>
 

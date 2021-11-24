@@ -34,34 +34,34 @@
                             Kolumbus&#8217; Mutter hiess Susanna Fontanarossa, 
                             Kolumbus&#8217; Schwester Bianchinetta und seine Brüder hiessen Bartolomeo, 
                             Giacomo und Pellegrino. Kolumbus&#8217; Vater Domenico Colombo hatte im 
-      Jahre 1447 tatkräftig mitgeholfen, die Fregoso-Dogen an die Macht zu 
-      bringen. Eine Urkunde belegt, dass er und sein Bruder Antonio Colombo als 
-      Dank dafür das lukrative Amt der Stadtturmbewachung erhielten. In der 
-      Mitte des 15. Jahrhunderts erfolgten Jahre des Wohlstandes für die 
-      Familie des zukünftigen Entdeckers von Amerika: Der franz&ouml;sische 
-      K&ouml;nig er&ouml;ffnete nach 1447 eine Botschaft und schickte namhafte 
-      Besucher in die Hafenstadt. Ren&eacute; von Anjou, der Graf von der Provence, 
-      und der reiche Reeder und Financier Jacques Coeur hatten im Hafen von Genua 
-      ihre Flotten und Truppen stationiert.
-      <a href="http://www.tarascon.org/de/histoire_rene.php" target="_blank">Ren&eacute; 
-      von Anjou</a> prägte seine Epoche in kultureller Hinsicht wie kein 
-      anderer: Auf seiner Burg im südfranz&ouml;sischen Tarascon brachte 
-      er Ritterspiele zur Uraufführung, eine Mischung aus Turnier und Maskerade-Schauspiel, 
-      und wegen seiner selbst verfassten Gedichte und mystischen Allegorien ging 
-      Ren&eacute; später sogar in die Literaturgeschichte ein. Der Anjou 
-      beschäftigte an seinem Hof jüdische Mathematiker und &Auml;rzte 
-      wie Pierre Abraham Salomon und Jean de Saint R&eacute;my, beides Vorfahren 
-      des Astrologen-Propheten Michel de Nostradamus (de n&ocirc;tre Dame). Astrologie, 
-      Mystik und Kosmologie waren die von ihm am meisten gef&ouml;rderten Forschungsgebiete.</p>
+                            Jahre 1447 tatkräftig mitgeholfen, die Fregoso-Dogen an die Macht zu 
+                            bringen. Eine Urkunde belegt, dass er und sein Bruder Antonio Colombo als 
+                            Dank dafür das lukrative Amt der Stadtturmbewachung erhielten. In der 
+                            Mitte des 15. Jahrhunderts erfolgten Jahre des Wohlstandes für die 
+                            Familie des zukünftigen Entdeckers von Amerika: Der franz&ouml;sische 
+                            K&ouml;nig er&ouml;ffnete nach 1447 eine Botschaft und schickte namhafte 
+                            Besucher in die Hafenstadt. Ren&eacute; von Anjou, der Graf von der Provence, 
+                            und der reiche Reeder und Financier Jacques Coeur hatten im Hafen von Genua 
+                            ihre Flotten und Truppen stationiert.
+                            <a href="http://www.tarascon.org/de/histoire_rene.php" target="_blank">Ren&eacute; 
+                            von Anjou</a> prägte seine Epoche in kultureller Hinsicht wie kein 
+                            anderer: Auf seiner Burg im südfranz&ouml;sischen Tarascon brachte 
+                            er Ritterspiele zur Uraufführung, eine Mischung aus Turnier und Maskerade-Schauspiel, 
+                            und wegen seiner selbst verfassten Gedichte und mystischen Allegorien ging 
+                            Ren&eacute; später sogar in die Literaturgeschichte ein. Der Anjou 
+                            beschäftigte an seinem Hof jüdische Mathematiker und &Auml;rzte 
+                            wie Pierre Abraham Salomon und Jean de Saint R&eacute;my, beides Vorfahren 
+                            des Astrologen-Propheten Michel de Nostradamus (de n&ocirc;tre Dame). Astrologie, 
+                            Mystik und Kosmologie waren die von ihm am meisten gef&ouml;rderten Forschungsgebiete.</p>
                         </div>
                         
                         <div class="col-md-6">
                         <img src="../images/Santo%20Stefano.JPG" width="231" height="320">
-                            <p>Kloster Santo Stefano in Genua</p>
+                            <p class="kleineFont">Kloster Santo Stefano in Genua</p>
                             <img src="../images/rené von Anjou miniature.jpg" width="184" height="366">
-                            <p> Ren&eacute; von Anjou, Graf von der Provence, Miniatur B. N., Paris</p>
+                            <p class="kleineFont"> Ren&eacute; von Anjou, Graf von der Provence, Miniatur B. N., Paris</p>
                             <img src="../images/René mit Krone in Studierstube.jpg" width="210" height="254">
-                            <p>Ren&eacute; von Anjou mit Krone, in seiner Schreibstube, B.N. Paris</p>
+                            <p class="kleineFont">Ren&eacute; von Anjou mit Krone, in seiner Schreibstube, B.N. Paris</p>
                         </div>
                     
 
@@ -125,8 +125,8 @@
                         
                         <div class="col-md-6">
                         <img src="../images/Columbus%20vor%20Tunis.jpg" width="261" height="380">
-                        <p>Galeasse zwischen Tunis und Sizilien, <br>
-      S. Münster, Cosmographei, Basel 1550<br>
+                        <p class="kleineFont">Galeasse zwischen Tunis und Sizilien, <br>
+      S. Münster, Cosmographei, Basel 1550<br> </p>
                         
                     </div>
 
@@ -186,9 +186,9 @@ Kolumbus betont, dass der Aufenthalt in der Levante ihn in erster Linie inspirie
 
                     <div class="col-md-6">
                         <img src="../images/Jacques%20Coeur.jpg" width="160" height="356"> 
-                        <p>Jacques C&#339;ur, mus&eacute;e de Berry Bourges </p>
+                        <p class="kleineFont">Jacques C&#339;ur, mus&eacute;e de Berry Bourges </p>
                         <img src="../images/Fenster%20im%20Palais%20Jacques%20Coeur%20in%20Bourges.jpg" width="193" height="327">
-                        <p> Fenster im chambre des gal&eacute;es, palais J. C&#339;ur, <br>
+                        <p class="kleineFont"> Fenster im chambre des gal&eacute;es, palais J. C&#339;ur, <br>
                         Bourges (im Hintergrund Aigues Mortes)</p>
                     </div>
 
@@ -235,7 +235,7 @@ Kolumbus betont, dass der Aufenthalt in der Levante ihn in erster Linie inspirie
 
                     <div class="col-md-6">
                     <img src="../images/Louis%20XI%20an%20Sitzung.jpg" width="361" height="258">
-                    <p>K&ouml;nig Louis XI. von Frankreich leitet eine Sitzung</p>
+                    <p class="kleineFont">K&ouml;nig Louis XI. von Frankreich leitet eine Sitzung</p>
                     </div>
 
                 </div>
@@ -277,7 +277,7 @@ Kolumbus betont, dass der Aufenthalt in der Levante ihn in erster Linie inspirie
 
                     <div class="col-md-6">
                     <img src="../images/Beladung%20der%20Schiffe%202.jpg" width="331" height="369">
-                    <p>Beladung der Kriegsschiffe, Miniatur 1488, B. N. Paris</p>
+                    <p class="kleineFont">Beladung der Kriegsschiffe, Miniatur 1488, B. N. Paris</p>
                     </div>
 
                 </div>
@@ -324,14 +324,14 @@ Kolumbus betont, dass der Aufenthalt in der Levante ihn in erster Linie inspirie
                     <div class="col-md-6">
                     <img src="../images/König Alfons V. der Afrikaner und Joao II. (Hintergrund) von.jpg" width="141" height="400">
                     <a href="http://de.wikipedia.org/wiki/Alfons_V._(Portugal)%20" target="_blank"><br>
-                    <p>Alfons 
+                    <p class="kleineFont">Alfons 
                     V.</a> mit seinem Sohn Joao II. im <br>
                     Hintergrund, N. Gon&ccedil;alves, Lissabon <br></p>
                     <img src="../images/Seeschlacht%201488.jpg" width="313" height="262">
-                    <p>Seeschlacht, Miniatur um 1488, B. N. Paris</p>
+                    <p class="kleineFont">Seeschlacht, Miniatur um 1488, B. N. Paris</p>
                     <img src="../images/Skizze%20Drake%20Kap.jpg" width="180" height="197">
                     <img src="../images/Skizze%20Drake%20San%20Vicente.jpg" width="190" height="169">
-                    <p> Kap von San Vicente, skizziert <br>
+                    <p class="kleineFont"> Kap von San Vicente, skizziert <br>
                         während des Angriffs von Francis <br>
                         Drake 1578</p>
                     <img src="../images/Kap%20San%20Vicente.jpg" width="367" height="255">

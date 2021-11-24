@@ -39,7 +39,7 @@
                         
                         <div class="col-md-6">
                             <img src="../images/Assereto%20ok.jpg" width="297" height="400"><br>
-                            <p>Seite 5 des Assereto-Dokuments, Staatsarchiv <br>
+                            <p class="kleineFont">Seite 5 des Assereto-Dokuments, Staatsarchiv <br>
                             Genua (ehemals: Sala Colombina), in Ch.Columbus</p>
                         </div>
                     
@@ -65,7 +65,7 @@
                         
                         <div class="col-md-6">
                         <img src="../images/Genua.jpg" width="311" height="251">
-                        <p>Stadt Genua, &#8222;Liber Chronicarum&#8220; von H. Schedel,<br>
+                        <p class="kleineFont">Stadt Genua, &#8222;Liber Chronicarum&#8220; von H. Schedel,<br>
                         Nürnberg 1493
                         
                     </div>
@@ -131,14 +131,14 @@
                     <div class="col-md-6">
                         
                     <img src="../images/banco%20san%20giorgio.jpg" width="278" height="400">
-                    <p> Banco di San Giorgio</p>
+                    <p class="kleineFont"> Banco di San Giorgio</p>
                     <img src="../images/Psalterium%20Commentariolum.jpg" width="295" height="279">
-                    <p>Glosse über Kolumbus in Giustinianis &#8220;Bibbia Poliglotta&#8221;,Psalm David, 19<br></p>
+                    <p class="kleineFont">Glosse über Kolumbus in Giustinianis &#8220;Bibbia Poliglotta&#8221;,Psalm David, 19<br></p>
                     <img src="../images/planisphäre 2.jpg" width="300" height="332"><br>
-                    <p>&#8222;Planisphäre&#8220; von Kolumbus, im Buch &#8222;Historia rerum&#8220; 
+                    <p class="kleineFont">&#8222;Planisphäre&#8220; von Kolumbus, im Buch &#8222;Historia rerum&#8220; 
                         von Picolomini. Biblioteca Colombina, Sevilla</p>
                         <img src="../images/Randbemerkung%20im%20Buch%20Marco%20Polo.jpg" width="300" height="140">
-                        <p>Randbemerkungen von Kolumbus in Marco Polos Reisebericht, <br>
+                        <p class="kleineFont">Randbemerkungen von Kolumbus in Marco Polos Reisebericht, <br>
                         Biblioteca Colombina, Sevilla</p>
                     </div>
 
@@ -192,13 +192,13 @@
 
                     <div class="col-md-6">
                     <img src="../images/Karte%20Savoyen.jpg" width="407" height="262"> 
-                    <p>Ausschnitt Karte Mitteleuropa im 15. Jh. (1477) Putzger 
+                    <p class="kleineFont">Ausschnitt Karte Mitteleuropa im 15. Jh. (1477) Putzger 
                     1931</p>
                     <img src="../images/Collombey.jpg" width="188" height="168">
-                    <p>Siegelwappen Collombey mit<br>
+                    <p class="kleineFont">Siegelwappen Collombey mit<br>
                     Adler, Armorial vaudois 1934&#8211;</p>
                     <img src="../images/Brand%20Templer%20Burg.jpg" width="181" height="202">
-                    <p> Chronique de France, Über die <br>
+                    <p class="kleineFont"> Chronique de France, Über die <br>
                     Verurteilung der Templer 1493</p>
                     </div>
 
@@ -236,14 +236,14 @@
 
                     <div class="col-md-6">
                     <img src="../images/Heinrich der Seefahrer von Nuno Gonçalves (Museu Nacional Ar.jpg" width="300" height="398">
-                    <p>Heinrich der Seefahrer, aus Nuno Gon&ccedil;alves &#8222;Verehrung des <br>
+                    <p class="kleineFont">Heinrich der Seefahrer, aus Nuno Gon&ccedil;alves &#8222;Verehrung des <br>
                     heiligen Vinzenz&#8220;, Museu Nacional Arte Antigua, Lissabon</p>
                     <img src="../images/Unterschrift%20mit%20Psalm.jpg" width="300" height="238">
-                    <p>Kolumbus&#8217; Unterschrift in der &#8222;Geografie&#8220; von Ptolomeus<br>
+                    <p class="kleineFont">Kolumbus&#8217; Unterschrift in der &#8222;Geografie&#8220; von Ptolomeus<br>
                      mit Psalm 93:4 &#8222;mirabilis elationes maris, mirabilis in<br>
                     altis Dominus&#8220;</p>
                     <img src="../images/Saint_Maurice_Magdeburg.jpg" width="176" height="276">
-                    <p> Abbild des aus &Auml;gypten <br>
+                    <p class="kleineFont"> Abbild des aus &Auml;gypten <br>
                     stammenden heiligen <br>
                     Mauritius, im Magdeburger Dom</p>
                     </div>
